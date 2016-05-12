@@ -5,7 +5,7 @@ This repository is created for Getting & Cleaning Data course project by Courser
 
 The name of the R script is `run_analysis.R`.
 
-### Descriptions about `run_anaylsis.R` script
+### Descriptions about `run_anaylysis.R` script
 
 1. Load Training data
 2. Load Testing data
